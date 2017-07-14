@@ -1,0 +1,4 @@
+embeddings {
+  tensor_name: "input_data_name:0"
+  metadata_path: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 2/metadata.tsv"
+}

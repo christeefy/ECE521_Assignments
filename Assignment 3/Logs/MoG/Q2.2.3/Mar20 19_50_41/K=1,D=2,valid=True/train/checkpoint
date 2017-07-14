@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 3/Logs/MoG/Q2.2.3/Mar20 19_50_41/K=1,D=2,valid=True/train/model.ckpt-1000"
+all_model_checkpoint_paths: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 3/Logs/MoG/Q2.2.3/Mar20 19_50_41/K=1,D=2,valid=True/train/model.ckpt-1000"

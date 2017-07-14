@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 2/Logs/Neural Network/Section Test/Eta_0.001/Mar29 17_44_43/model_logits.ckpt-3000"
+all_model_checkpoint_paths: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 2/Logs/Neural Network/Section Test/Eta_0.001/Mar29 17_44_43/model_logits.ckpt-3000"

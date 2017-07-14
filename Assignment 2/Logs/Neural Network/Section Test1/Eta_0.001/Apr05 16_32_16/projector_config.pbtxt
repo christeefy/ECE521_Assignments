@@ -1,0 +1,9 @@
+embeddings {
+  tensor_name: "logits:0"
+  metadata_path: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 2/metadata.tsv"
+  sprite {
+    image_path: "/Users/christophertee/Dropbox/University/MASc/Courses/Winter 2017/ECE521 (Inference Algorithms & Machine Learning)/Assignment 2/sprite.png"
+    single_image_dim: 28
+    single_image_dim: 28
+  }
+}
